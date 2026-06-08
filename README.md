@@ -36,6 +36,7 @@ I build and ship **AI products end-to-end**, across multiple domains — fintech
 
 ### 📫 Reach me
 - 💼 LinkedIn: [linkedin.com/in/omershaik](https://linkedin.com/in/omershaik)
-- ✉️ omershaik48@gmail.com
+- ✉️ Email: mohammed@omershaik.com
+- 🌐 Website: [omershaik.com](https://omershaik.com)
 
 <sub>Product-minded builder. I care about shipping useful AI, honest data, and real-world impact across domains.</sub>
