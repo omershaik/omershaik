@@ -1,12 +1,12 @@
 # Hi, I'm Omer 👋
 
-### AI Product Manager — LLM Products & Applied AI
+### I build & ship AI products — from the first prompt to production
 
-I build and ship **AI products end-to-end**, across multiple domains — fintech & crypto, developer tools, research automation, marketing, and real estate. Founder-operator who takes ideas from **PRD to deployed software** using **AI coding tools (Claude Code, Cursor, Codex, Gemini)**: prompt & context engineering, RAG, agents, evals, and MCP.
+I'm a **founder and builder** — I have ideas and I bring them to life. I take a one-line idea to **deployed software** (PRD → architecture → shipped) using **AI coding tools (Claude Code, Cursor, Codex, Gemini)**: prompt & context engineering, RAG, agents, evals, and MCP. I've done it across **5+ domains** — fintech & crypto, developer tools, research, marketing, and real estate.
 
-- 🤖 Shipped AI products across **5+ domains** (see projects below) — generalist AI PM, not tied to one vertical.
+- 🛠️ A builder, not tied to one vertical — six of my projects are open-source (below).
 - 🚀 Founder-operator: co-founded companies (e-commerce, real estate); currently building my own venture, **Virsa**.
-- 🌍 Open to **AI Product Manager** roles (UAE / Canada — available to relocate).
+- 🎯 Now targeting **AI product roles** — product management, founding, or solutions (UAE / Canada — available to relocate).
 - 🧠 Lambton College (Canada) — Graduate Certificate, AI & Machine Learning.
 
 ---
@@ -35,8 +35,8 @@ I build and ship **AI products end-to-end**, across multiple domains — fintech
 ---
 
 ### 📫 Reach me
+- 🌐 [omershaik.com](https://omershaik.com)
 - 💼 LinkedIn: [linkedin.com/in/omershaik](https://linkedin.com/in/omershaik)
-- ✉️ Email: mohammed@omershaik.com
-- 🌐 Website: [omershaik.com](https://omershaik.com)
+- ✉️ mohammed@omershaik.com
 
 <sub>Product-minded builder. I care about shipping useful AI, honest data, and real-world impact across domains.</sub>
