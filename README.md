@@ -1,42 +1,82 @@
-# Hi, I'm Omer 👋
+# Mohammed Omer Shaik
 
-### I build & ship AI products — from the first prompt to production
+## AI Product Lead and Solutions Architect
 
-I'm a **founder and builder** — I have ideas and I bring them to life. I take a one-line idea to **deployed software** (PRD → architecture → shipped) using **AI coding tools (Claude Code, Cursor, Codex, Gemini)**: prompt & context engineering, RAG, agents, evals, and MCP. I've done it across **5+ domains** — fintech & crypto, developer tools, research, marketing, and real estate.
+I turn unclear operating problems into working products. My work combines product management, software architecture, data, and applied AI. I define workflows, write requirements, shape APIs and data models, build alongside engineers, test the result, and stay responsible for release quality.
 
-- 🛠️ A builder, not tied to one vertical — six of my projects are open-source (below).
-- 🚀 Founder-operator: co-founded companies (e-commerce, real estate); currently building my own venture, **Virsa**.
-- 🎯 Now targeting **AI product roles** — product management, founding, or solutions (UAE / Canada — available to relocate).
-- 🧠 Lambton College (Canada) — Graduate Certificate, AI & Machine Learning.
+Recent work through CodeSpellStudio covered procurement, research, developer tools, investment decision systems, and real estate. I use AI assisted development for research, specifications, prototyping, implementation, testing, and review. Product decisions, validation, and accountability remain human responsibilities.
 
----
+[Portfolio](https://omershaik.com) · [LinkedIn](https://linkedin.com/in/omershaik) · [Email](mailto:mohammed@omershaik.com)
 
-### 🔧 What I build with
+## Selected work
 
-**AI / LLM:** prompt & context engineering · RAG · AI agents · evaluations / LLMOps · MCP
+### SANAD
 
-**Stack:** Python · TypeScript / Next.js · Fastify · PostgreSQL · Weaviate · Docker
+A bilingual procurement product built for a founder preparing commercial launch. It covers contractor discovery, comparable bids, messaging, milestones, approvals, purchase orders, invoices, and audit records.
 
-*Built primarily with AI coding tools (Claude Code, Cursor, Codex, Gemini) — product & architecture led, AI-assisted.*
+**126 product screens · 452 registered states · 904 English and Arabic browser cases**
 
----
+[Open the live demo](https://sanad-demo.onrender.com/) · [Read the portfolio case study](https://omershaik.com/#work)
 
-### 📌 Featured projects — across domains
+<p>
+  <img src="assets/sanad-home.jpg" width="49%" alt="SANAD contractor discovery screen">
+  <img src="assets/sanad-profile.jpg" width="49%" alt="SANAD contractor profile screen">
+</p>
 
-- **[LaserEyedBen](https://github.com/omershaik/LaserEyedBen)** · *Fintech / Crypto* — Autonomous crypto-intelligence agent (live on X). ~16 data sources → GPT-4. Migrated storage **Postgres → hybrid Postgres + Weaviate**; full case study included.
-- **[Palate](https://github.com/omershaik/Palate)** · *Developer Tools* — Open-source MCP server giving AI coding tools a structured design vocabulary to avoid "AI-slop."
-- **[Lorenth](https://github.com/omershaik/Lorenth)** · *Research / Agents* — Agentic AI research-report generator (docs, decks, PDFs); PRD-driven.
-- **[Restaurantpeer](https://github.com/omershaik/Restaurantpeer)** · *Marketing / Automation* — End-to-end agentic pipeline: scrape → pick hero photo → sample brand palette → generate on-brand posts.
-- **[PropertyLedger](https://github.com/omershaik/PropertyLedger)** · *PropTech* — Trust infrastructure for real estate: 47-point audit, 0–1000 Trust Score, on-chain-verifiable certificates.
-- **[PARCEL](https://github.com/omershaik/PARCEL)** · *PropTech / Data* — Turns official Dubai (DLD + RERA) data into developer trust scores and project intelligence.
+### LaserEyedBen
 
-*Common thread: take a messy real-world problem, design the product, and ship working AI — whatever the domain.*
+A partner backed crypto intelligence agent that ran in production. The system combined market, blockchain, developer, news, and social signals through an event driven workflow with retrieval, personality controls, fallbacks, rate limits, and operating checks.
 
----
+**About 16 live sources · More than 20 intelligence engines · 85 percent cache hit rate below 100 milliseconds · Full response benchmark below 1.5 seconds**
 
-### 📫 Reach me
-- 🌐 [omershaik.com](https://omershaik.com)
-- 💼 LinkedIn: [linkedin.com/in/omershaik](https://linkedin.com/in/omershaik)
-- ✉️ mohammed@omershaik.com
+[View the repository](https://github.com/omershaik/LaserEyedBen)
 
-<sub>Product-minded builder. I care about shipping useful AI, honest data, and real-world impact across domains.</sub>
+### Lorenth
+
+An agentic research system that plans a question, gathers current evidence, produces cited findings, and exports a report as a document, presentation, or PDF. The repository includes the React interface, FastAPI services, data models, research orchestration, and export engines.
+
+[View the repository](https://github.com/omershaik/Lorenth)
+
+<p>
+  <img src="assets/lorenth-export.jpg" width="760" alt="Lorenth report export controls">
+</p>
+
+### Palate
+
+An open source Model Context Protocol server that gives AI coding tools a structured design vocabulary. It includes typed contracts, multi stage routing, compatibility checks, validation, automated tests, and contributor documentation.
+
+[View the repository](https://github.com/omershaik/Palate)
+
+### PropertyLedger and PARCEL
+
+Two real estate decision systems shaped by direct operating work. PropertyLedger models a legal and title review workflow with explainable scoring, human approval, audit events, and public verification. PARCEL turns official registry and project data into comparable research views while showing provenance and missing data.
+
+[View PropertyLedger](https://github.com/omershaik/PropertyLedger) · [View PARCEL](https://github.com/omershaik/PARCEL)
+
+## How I work
+
+* **Product:** discovery, product strategy, roadmaps, requirements, user journeys, user stories, backlog decisions, acceptance criteria, user acceptance testing, and launch planning
+* **AI systems:** agents, retrieval augmented generation, embeddings, semantic search, tool calling, structured outputs, prompt and context engineering, evaluation, grounding, guardrails, and human review
+* **Engineering:** Python, TypeScript, JavaScript, Java, React, Next.js, Node.js, FastAPI, REST APIs, PostgreSQL, SQL, Redis, Supabase, Weaviate, Docker, and Git
+* **Quality:** unit, integration, and browser testing; schema validation; authentication; authorization; audit logging; retries; fallbacks; rate limiting; monitoring; and release controls
+
+## Background
+
+* AI Product Lead and Solutions Architect, CodeSpellStudio, Sep 2024 to Jul 2026
+* Product Owner, Content Moderation Tools, Majorel Canada, Oct 2023 to Aug 2024
+* Quality Assurance and Process Improvement Analyst, Co-op, Elite Mobility Mfg., May 2023 to Aug 2023
+* Software Architect and Technical Product Lead, Bismi Services, May 2018 to Jun 2022
+
+## Education and certifications
+
+* Ontario Graduate Certificate, Artificial Intelligence and Machine Learning, Lambton College
+* Bachelor of Engineering, Computer Science and Engineering, P.D.A. College of Engineering
+* Professional Scrum Product Owner I, Scrum.org
+* AI in Fintech Essential Training, LinkedIn Learning
+* Excel Essential Training (Microsoft 365), National Association of State Boards of Accountancy
+
+## Contact
+
+Toronto, Ontario
+
+[omershaik.com](https://omershaik.com) · [linkedin.com/in/omershaik](https://linkedin.com/in/omershaik) · [mohammed@omershaik.com](mailto:mohammed@omershaik.com)
