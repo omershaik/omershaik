@@ -1,10 +1,10 @@
 # Mohammed Omer Shaik
 
-## AI Product Lead and Solutions Architect
+## Forward Deployed AI Engineer
 
-I turn unclear operating problems into working products. My work combines product management, software architecture, data, and applied AI. I define workflows, write requirements, shape APIs and data models, build alongside engineers, test the result, and stay responsible for release quality.
+I turn business requirements into working AI applications. I work across client discovery, workflow design, Python and TypeScript implementation, API integrations, testing and release preparation. My product and banking systems background helps me connect the implementation to the problem it needs to solve.
 
-Recent work through CodeSpellStudio covered procurement, research, developer tools, investment decision systems, and real estate. I use AI assisted development for research, specifications, prototyping, implementation, testing, and review. Product decisions, validation, and accountability remain human responsibilities.
+My work includes a bilingual procurement product built for a client, research workflows with source grounding, and MCP tooling for AI coding assistants. I use Claude Code, Codex and Cursor during development, and take responsibility for reviewing the code, debugging behavior and checking results.
 
 [Portfolio](https://omershaik.com) · [LinkedIn](https://linkedin.com/in/omershaik) · [Email](mailto:mohammed@omershaik.com)
 
@@ -14,7 +14,7 @@ Recent work through CodeSpellStudio covered procurement, research, developer too
 
 A bilingual procurement product built for a founder preparing commercial launch. It covers contractor discovery, comparable bids, messaging, milestones, approvals, purchase orders, invoices, and audit records.
 
-**126 product screens · 452 registered states · 904 English and Arabic browser cases**
+I translated procurement requirements into application workflows, permissions and English and Arabic browser cases. A demo is available; external verification, messaging and payment integrations remain behind replaceable adapters.
 
 [Open the live demo](https://sanad-demo.onrender.com/) · [Read the portfolio case study](https://omershaik.com/#work)
 
@@ -25,15 +25,17 @@ A bilingual procurement product built for a founder preparing commercial launch.
 
 ### LaserEyedBen
 
-A partner backed crypto intelligence agent that ran in production. The system combined market, blockchain, developer, news, and social signals through an event driven workflow with retrieval, personality controls, fallbacks, rate limits, and operating checks.
+A partner backed crypto intelligence agent that ran publicly and is now paused. I implemented LLM query classification and routing between PostgreSQL and Weaviate for transactional records and semantic retrieval, alongside external data integrations and failure handling.
 
-**About 16 live sources · More than 20 intelligence engines · 85 percent cache hit rate below 100 milliseconds · Full response benchmark below 1.5 seconds**
+The public repository contains a case study and selected implementation samples, not the complete production service.
 
 [View the repository](https://github.com/omershaik/LaserEyedBen)
 
 ### Lorenth
 
-An agentic research system that plans a question, gathers current evidence, produces cited findings, and exports a report as a document, presentation, or PDF. The repository includes the React interface, FastAPI services, data models, research orchestration, and export engines.
+A Python and FastAPI research application with custom agentic orchestration: research framing, query generation, external search, streamed report synthesis and citations. I implemented query fallbacks and checks for report structure and numeric source grounding, plus document export workflows.
+
+This is an MVP. Source citations and heuristic checks do not establish factual accuracy; live model evaluation remains separate from application tests.
 
 [View the repository](https://github.com/omershaik/Lorenth)
 
@@ -43,7 +45,9 @@ An agentic research system that plans a question, gathers current evidence, prod
 
 ### Palate
 
-An open source Model Context Protocol server that gives AI coding tools a structured design vocabulary. It includes typed contracts, multi stage routing, compatibility checks, validation, automated tests, and contributor documentation.
+An open source TypeScript Model Context Protocol (MCP) server for AI coding assistants. It exposes five tools for design routing, validation and reference lookup, with structured inputs, error responses, resources and prompts.
+
+It is a pre-release tool server, not an autonomous agent. Local MCP integration has been exercised; routing accuracy still has open test failures.
 
 [View the repository](https://github.com/omershaik/Palate)
 
@@ -55,10 +59,12 @@ Two real estate decision systems shaped by direct operating work. PropertyLedger
 
 ## How I work
 
-* **Product:** discovery, product strategy, roadmaps, requirements, user journeys, user stories, backlog decisions, acceptance criteria, user acceptance testing, and launch planning
-* **AI systems:** agents, retrieval augmented generation, embeddings, semantic search, tool calling, structured outputs, prompt and context engineering, evaluation, grounding, guardrails, and human review
-* **Engineering:** Python, TypeScript, JavaScript, Java, React, Next.js, Node.js, FastAPI, REST APIs, PostgreSQL, SQL, Redis, Supabase, Weaviate, Docker, and Git
-* **Quality:** unit, integration, and browser testing; schema validation; authentication; authorization; audit logging; retries; fallbacks; rate limiting; monitoring; and release controls
+* **Client delivery:** requirements discovery, workflow mapping, solution design, API contracts, acceptance criteria, demonstrations and release planning
+* **AI applications:** OpenAI and Anthropic APIs, custom agentic workflows, search grounding, semantic retrieval, structured outputs, prompt engineering, MCP and human review
+* **Engineering:** Python, TypeScript, JavaScript, Java, React, Next.js, Node.js, FastAPI, REST APIs, PostgreSQL, SQL, Redis and Weaviate
+* **Quality and tooling:** pytest, Vitest, Playwright, Pydantic, Zod, authentication, audit logging, error handling, output validation, Docker and Git
+
+I am based in Toronto and interested in Forward Deployed AI Engineer, Applied AI Engineer and Generative AI Engineer roles where understanding the user's workflow is part of the engineering work.
 
 ## Background
 
