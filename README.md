@@ -53,7 +53,7 @@ It is a pre-release tool server, not an autonomous agent. Local MCP integration 
 
 ### PropertyLedger and PARCEL
 
-Two real estate decision systems shaped by direct operating work. PropertyLedger models a legal and title review workflow with explainable scoring, human approval, audit events, and public verification. PARCEL turns official registry and project data into comparable research views while showing provenance and missing data.
+Two real estate prototypes shaped by direct operating work. PropertyLedger demonstrates a property review workflow with example checks, explainable scoring, human approval and audit events. PARCEL uses demonstration data to build comparable research views while showing provenance and missing data. Neither is a verified legal or registry data service.
 
 [View PropertyLedger](https://github.com/omershaik/PropertyLedger) · [View PARCEL](https://github.com/omershaik/PARCEL)
 
